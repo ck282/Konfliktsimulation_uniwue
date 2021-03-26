@@ -1,0 +1,26 @@
+brigade;name;name_vollstaendig;typ;erfahrung_wort;staerke_beginn
+1e Brigade, 7e Devision;1 1/7e;1 Bataillon;Infanterie;erfahren;1000
+1e Brigade, 7e Devision;2 1/7e;2 Bataillon;Infanterie;normal;1000
+1e Brigade, 7e Devision;3 1/7e;3 Bataillon;Infanterie;normal;1000
+1e Brigade, 7e Devision;4 1/7e;4 Bataillon;Infanterie;normal;1000
+1e Brigade, 7e Devision;5 1/7e;5 Bataillon;Infanterie;normal;1000
+1e Brigade, 7e Devision;6 1/7e;6 Bataillon;Infanterie;normal;1000
+1e Brigade, 7e Devision;7 1/7e;7 Bataillon;Infanterie;normal;1000
+2e Brigade, 7e Division;1 2/7e;1 Bataillon;Infanterie;normal;1000
+2e Brigade, 7e Division;2 2/7e;2 Bataillon;Infanterie;normal;1000
+2e Brigade, 7e Division;3 2/7e;3 Bataillon;Infanterie;normal;1000
+2e Brigade, 7e Division;4 2/7e;4 Bataillon;Infanterie;normal;1000
+2e Brigade, 7e Division;5 2/7e;5 Bataillon;Infanterie;normal;1000
+2e Brigade, 7e Division;6 2/7e;6 Bataillon;Infanterie;normal;1000
+107e Brigade;1 107;1 Bataillon;Infanterie;unerfahren;800
+107e Brigade;2 107;2 Bataillon;Infanterie;unerfahren;800
+107e Brigade;3 107;3 Bataillon;Infanterie;unerfahren;800
+107e Brigade;4 107;4 Bataillon;Infanterie;unerfahren;800
+107e Brigade;5 107;5 Bataillon;Infanterie;unerfahren;800
+107e Brigade;6 107;6 Bataillon;Infanterie;unerfahren;800
+Divisionsartillerie;1 7e;1 Batterie, 7e Division;Artillerie;normal;6
+Divisionsartillerie;2 7e;2 Batterie, 7e Division;Artillerie;normal;6
+Divisionsartillerie;3 7e;3 Batterie, 7e Division;Artillerie;normal;6
+Divisionsartillerie;4 7e;4 Batterie, 7e Division;Artillerie;normal;6
+Corpsartillerie;1 Corps;1 Batterie, Corps;schwere Artillerie;normal;4
+Corpsartillerie;2 Corps;2 Batterie, Coprs;schwere Artillerie;normal;4

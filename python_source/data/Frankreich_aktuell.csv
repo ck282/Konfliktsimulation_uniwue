@@ -1,0 +1,26 @@
+name;brigade;name_vollstaendig;typ;staerke_beginn;staerke_aktuell;erfahrung_wort;erfahrung_zahl;muede;flucht;eingegraben;standort_aktuell;standort_letzteRunde
+1 1/7e;1e Brigade, 7e Devision;1 Bataillon;Infanterie;1000;700;erfahren;2;1;0;0;z.B. London;z.B. London
+2 1/7e;1e Brigade, 7e Devision;2 Bataillon;Infanterie;1000;700;normal;1;1;0;0;z.B. London;z.B. London
+3 1/7e;1e Brigade, 7e Devision;3 Bataillon;Infanterie;1000;700;normal;1;1;0;0;z.B. London;z.B. London
+4 1/7e;1e Brigade, 7e Devision;4 Bataillon;Infanterie;1000;1000;normal;1;0;0;0;;
+5 1/7e;1e Brigade, 7e Devision;5 Bataillon;Infanterie;1000;1000;normal;1;0;0;0;;
+6 1/7e;1e Brigade, 7e Devision;6 Bataillon;Infanterie;1000;1000;normal;1;0;0;0;;
+7 1/7e;1e Brigade, 7e Devision;7 Bataillon;Infanterie;1000;1000;normal;1;0;0;0;;
+1 2/7e;2e Brigade, 7e Division;1 Bataillon;Infanterie;1000;1000;normal;1;0;0;0;;
+2 2/7e;2e Brigade, 7e Division;2 Bataillon;Infanterie;1000;1000;normal;1;0;0;0;;
+3 2/7e;2e Brigade, 7e Division;3 Bataillon;Infanterie;1000;1000;normal;1;0;0;0;;
+4 2/7e;2e Brigade, 7e Division;4 Bataillon;Infanterie;1000;1000;normal;1;0;0;0;;
+5 2/7e;2e Brigade, 7e Division;5 Bataillon;Infanterie;1000;1000;normal;1;0;0;0;;
+6 2/7e;2e Brigade, 7e Division;6 Bataillon;Infanterie;1000;1000;normal;1;0;0;0;;
+1 107;107e Brigade;1 Bataillon;Infanterie;800;800;unerfahren;0;0;0;0;;
+2 107;107e Brigade;2 Bataillon;Infanterie;800;800;unerfahren;0;0;0;0;;
+3 107;107e Brigade;3 Bataillon;Infanterie;800;800;unerfahren;0;0;0;0;;
+4 107;107e Brigade;4 Bataillon;Infanterie;800;800;unerfahren;0;0;0;0;;
+5 107;107e Brigade;5 Bataillon;Infanterie;800;800;unerfahren;0;0;0;0;;
+6 107;107e Brigade;6 Bataillon;Infanterie;800;800;unerfahren;0;0;0;0;;
+1 7e;Divisionsartillerie;1 Batterie, 7e Division;Artillerie;6;6;normal;1;0;0;0;;
+2 7e;Divisionsartillerie;2 Batterie, 7e Division;Artillerie;6;6;normal;1;0;0;0;;
+3 7e;Divisionsartillerie;3 Batterie, 7e Division;Artillerie;6;6;normal;1;0;0;0;;
+4 7e;Divisionsartillerie;4 Batterie, 7e Division;Artillerie;6;6;normal;1;0;0;0;;
+1 Corps;Corpsartillerie;1 Batterie, Corps;schwere Artillerie;4;4;normal;1;0;0;0;;
+2 Corps;Corpsartillerie;2 Batterie, Coprs;schwere Artillerie;4;4;normal;1;0;0;0;;

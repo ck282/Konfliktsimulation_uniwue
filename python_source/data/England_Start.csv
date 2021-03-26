@@ -1,0 +1,20 @@
+brigade;name;name_vollstaendig;typ;erfahrung_wort;staerke_beginn
+Navy Brigade;RMLI;Royal Marine Light Infantry;Infanterie;erfahren;1000
+Navy Brigade;Sailors;Sailors;Infanterie;unerfahren;400
+Navy Brigade;1 Navy;1 Battery, Navy Brigade;schwere Artillerie;erfahren;2
+Navy Brigade;2 Navy;2 Battery, Navy Brigade;Artillerie;erfahren;6
+1 Brigade;1 EKR;1 Battalion, East Kent Regiment;Infanterie;normal;1000
+1 Brigade;2 EKR;2 Battalion, East Kent Regiment;Infanterie;normal;1000
+1 Brigade;B 1RA;B Battery, 1 Regiment Royal Artillery;Artillerie;normal;6
+Thanet Brigade;1 EKV;1 Battalion, East Kent Volunteers;Infanterie;unerfahren;800
+Thanet Brigade;2 EKV;2 Battalion, East Kent Volunteers;Infanterie;unerfahren;800
+Thanet Brigade;RRV;Ramsgate Rifle Volunteers;Infanterie;unerfahren;800
+Thanet Brigade;MRV;Margate Rifle Volunteers;Infanterie;unerfahren;800
+Volunteer Cavalry Brigade;MML;Margate Mobile Loyalists;Kavallerie;unerfahren;300
+Volunteer Cavalry Brigade;RVY;Ramsgate Volunteer Yeomantry;Kavallerie;unerfahren;300
+Volunteer Cavalry Brigade;TMG;Thanet Mounted Gentlemen;Kavallerie;unerfahren;300
+Volunteer Cavalry Brigade;Moss;Mosstroopers;Kavallerie;normal;200
+Divisionsartillerie;1 CPAV;1 Battery, Cinque Ports Artillery Volunteers;Artillerie;unerfahren;4
+Divisionsartillerie;2 CPAV;2 Battery, Cinque Ports Artillery Volunteers;Artillerie;unerfahren;4
+Divisionsartillerie;3 CPAV;3 Battery, Cinque Ports Artillery Volunteers;Artillerie;unerfahren;4
+Divisionsartillerie;CPGA;Cinque Ports Garrison Artillery;schwere Artillerie;unerfahren;2

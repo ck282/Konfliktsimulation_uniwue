@@ -1,0 +1,20 @@
+name;brigade;name_vollstaendig;typ;staerke_beginn;staerke_aktuell;erfahrung_wort;erfahrung_zahl;muede;flucht;eingegraben;standort_aktuell;standort_letzteRunde
+RMLI;Navy Brigade;Royal Marine Light Infantry;Infanterie;1000;0;erfahren;2;0;0;0;z.B. London;z.B. London
+Sailors;Navy Brigade;Sailors;Infanterie;400;0;unerfahren;0;0;0;0;z.B. London;z.B. London
+1 Navy;Navy Brigade;1 Battery, Navy Brigade;schwere Artillerie;2;2;erfahren;2;0;0;0;;
+2 Navy;Navy Brigade;2 Battery, Navy Brigade;Artillerie;6;6;erfahren;2;0;0;0;;
+1 EKR;1 Brigade;1 Battalion, East Kent Regiment;Infanterie;1000;1000;normal;1;0;0;0;;
+2 EKR;1 Brigade;2 Battalion, East Kent Regiment;Infanterie;1000;1000;normal;1;0;0;0;;
+B 1RA;1 Brigade;B Battery, 1 Regiment Royal Artillery;Artillerie;6;6;normal;1;0;0;0;;
+1 EKV;Thanet Brigade;1 Battalion, East Kent Volunteers;Infanterie;800;800;unerfahren;0;0;0;0;;
+2 EKV;Thanet Brigade;2 Battalion, East Kent Volunteers;Infanterie;800;800;unerfahren;0;0;0;0;;
+RRV;Thanet Brigade;Ramsgate Rifle Volunteers;Infanterie;800;800;unerfahren;0;0;0;0;;
+MRV;Thanet Brigade;Margate Rifle Volunteers;Infanterie;800;800;unerfahren;0;0;0;0;;
+MML;Volunteer Cavalry Brigade;Margate Mobile Loyalists;Kavallerie;300;300;unerfahren;0;0;0;0;;
+RVY;Volunteer Cavalry Brigade;Ramsgate Volunteer Yeomantry;Kavallerie;300;300;unerfahren;0;0;0;0;;
+TMG;Volunteer Cavalry Brigade;Thanet Mounted Gentlemen;Kavallerie;300;300;unerfahren;0;0;0;0;;
+Moss;Volunteer Cavalry Brigade;Mosstroopers;Kavallerie;200;200;normal;1;0;0;0;;
+1 CPAV;Divisionsartillerie;1 Battery, Cinque Ports Artillery Volunteers;Artillerie;4;4;unerfahren;0;0;0;0;;
+2 CPAV;Divisionsartillerie;2 Battery, Cinque Ports Artillery Volunteers;Artillerie;4;4;unerfahren;0;0;0;0;;
+3 CPAV;Divisionsartillerie;3 Battery, Cinque Ports Artillery Volunteers;Artillerie;4;4;unerfahren;0;0;0;0;;
+CPGA;Divisionsartillerie;Cinque Ports Garrison Artillery;schwere Artillerie;2;2;unerfahren;0;0;0;0;;
