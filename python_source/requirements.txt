@@ -1,0 +1,2 @@
+PySimpleGUI==4.37.0
+pandas==1.2.3
