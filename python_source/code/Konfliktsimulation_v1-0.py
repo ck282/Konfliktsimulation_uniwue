@@ -145,20 +145,17 @@ def normalize(datapath):
     """Erstellt benötigte Spalten und Werte für die eingegebenen Datentabellen"""
     dataframe = pd.read_csv(datapath, sep=";", encoding="utf-8", index_col="name")
 
-    # Columns die auf existierenden columns bestehen
     dataframe["erfahrung_zahl"] = 0
     for index, row in dataframe.iterrows():
         xp = row["erfahrung_wort"]
         dataframe.at[index,"erfahrung_zahl"] = experience_word_to_number(xp)
     dataframe["staerke_aktuell"] = dataframe["staerke_beginn"]
 
-    # neue Columns mit pre-set-values
-    # malus
+
     dataframe["muede"] = 0
     dataframe["flucht"] = 0
-    # bonus
     dataframe["eingegraben"] = 0
-    # sonstiges
+
     dataframe["standort_aktuell"] = None
     dataframe["standort_letzteRunde"] = None
     columns = ["brigade","name_vollstaendig","typ","staerke_beginn","staerke_aktuell","erfahrung_wort","erfahrung_zahl","muede", "flucht", "eingegraben", "standort_aktuell","standort_letzteRunde"]
@@ -236,7 +233,6 @@ def start_window():
         event, values = win0.read()
         if event == "Neue Simulation starten":
             h, name, modus = ini_window()
-            #h = int(sg.popup_get_text("Startzeit im Format HH: ", default_text=00))
             time = datetime.datetime(1, 1, 1, hour=h)
             win0.close()
             break
@@ -388,7 +384,6 @@ def man_boni_window():
     layout = [[sg.Text('Eingabe manueller Vorteile', font= 30)],
              [sg.Column(columnAng), sg.Column(columnVer)],
               [sg.Button("abbrechen"), sg.Button("weiter")]
-              ### bei zurück passiert nichts ??????????????????
               ]
 
     window = sg.Window("Manuelle Boni", layout, grab_anywhere=True, resizable=True)
@@ -464,11 +459,8 @@ def troopupdate():
             duration = duration_window()
 
             if event == "Cancel" or duration == "" or duration is None:
-            #if event == "Cancel" or math.isnan(duration) == True:
-                break #break closes the window - aber keine error message
-
+                break
             duration = int(duration)
-            #Cancel - was dann?????
             troopF = values["Troop_F"]
             print("Ausgewählte Einheit: " + troopF)
             dig_in(troopF, frankreich_df, duration)
@@ -480,9 +472,9 @@ def troopupdate():
         if event == "ausgraben_F":
             duration = duration_window()
             if event == "Cancel" or duration == "" or duration is None:
-                break  # break closes the window - aber keine error message
+                break
+
             duration = int(duration)
-            # Cancel - was dann?????
             troopF = values["Troop_F"]
             print("Ausgewählte Einheit: " + troopF)
             dig_out(troopF, frankreich_df, duration)
@@ -520,12 +512,10 @@ def troopupdate():
 
 
         if event == "eingraben_E":
-            # new_location = sg.popup_get_text("Standort: ")
             duration = duration_window()
             if event == "Cancel" or duration == "" or duration is None:
-                break  # break closes the window - aber keine error message
+                break
             duration = int(duration)
-            # Cancel - was dann?????
             troopE = values["Troop_E"]
             print("Ausgewählte Einheit: " + troopE)
             dig_in(troopE, england_df, duration)
@@ -654,7 +644,7 @@ def show_winner():
 
     window_w = sg.Window('Window Title', layout, grab_anywhere=True, resizable=True)
 
-    while True:  # The Event Loop
+    while True:
         event, values = window_w.read()
         winner = values['winner']
         if winner is None or winner == "":
@@ -797,7 +787,7 @@ def entrenched(troops, side):
             break
 
     return bonus
-    # muss plus gemacht werden
+
 
 
 def fleeing_check(troops_E,troops_F,attacker):
@@ -1207,7 +1197,7 @@ def round_update (df):
             df._set_value(name, "eingegraben", new_entrenched)
 
         df["standort_letzteRunde"] = df["standort_aktuell"]
-        #?? was passiert bei null?
+
     return df
 
 
