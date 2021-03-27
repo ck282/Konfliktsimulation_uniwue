@@ -1,0 +1,12 @@
+Verhältnis;1A;1V;2A;2V;3A;3V;4A;4V;5A;5V;6A;6V
+1:5;muede;rückzug;flucht;frisch;flucht;muede;flucht;frisch;vernichtet;muede;vernichtet;muede
+1:4;muede;rückzug;rückzug;frisch;flucht;muede;würfeln;würfeln;flucht;frisch;vernichtet;muede
+1:3;muede;rückzug;rückzug;frisch;würfeln;würfeln;flucht;frisch;würfeln;würfeln;vernichtet;muede
+1:2;muede;rückzug;rückzug;frisch;flucht;muede;muede;flucht;flucht;frisch;vernichtet;muede
+2:3;muede;rückzug;rückzug;frisch;würfeln;würfeln;flucht;frisch;frisch;flucht;vernichtet;muede
+1:1;rückzug;muede;frisch;rückzug;flucht;muede;frisch;flucht;flucht;frisch;muede;vernichtet
+3:2;rückzug;muede;frisch;rückzug;würfeln;würfeln;frisch;flucht;flucht;frisch;muede;vernichtet
+2:1;rückzug;muede;frisch;rückzug;muede;flucht;flucht;muede;frisch;flucht;muede;vernichtet
+3:1;rückzug;muede;frisch;rückzug;würfeln;würfeln;frisch;flucht;würfeln;würfeln;muede;vernichtet
+4:1;rückzug;muede;frisch;rückzug;muede;flucht;würfeln;würfeln;frisch;flucht;muede;vernichtet
+5:1;rückzug;muede;frisch;flucht;muede;flucht;frisch;flucht;muede;vernichtet;muede;vernichtet

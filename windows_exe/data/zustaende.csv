@@ -1,0 +1,6 @@
+result;mult;status;dauer
+frisch;0.9;NULL;NULL
+rückzug;0.8;NULL;NULL
+muede;0.7;muede;2
+flucht;0.5;flucht;3
+vernichtet;0.0;NULL;NULL
